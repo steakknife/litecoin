@@ -59,7 +59,7 @@ Mac OS X
 ::
 
 	sudo port selfupdate
-	sudo port install boost db48 miniupnpc
+	sudo port install boost db48 miniupnpc openssl
 
 - Execute the following commands in a terminal to get the dependencies using HomeBrew:
 
